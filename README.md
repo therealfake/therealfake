@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me:
 - 📚 Currently a 2nd year studying Computer Science at the University of Toronto
 - 📝 Self-learning MERN stack
 - 👷‍♂️ Open Source Software Developer for MarkUs 
