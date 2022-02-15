@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 📚 Currently a 2nd year studying Computer Science at the University of Toronto
 - 📝 Self-learning MERN stack
 - 👷‍♂️ Open Source Software Developer for MarkUs 
-- 🔍 Seeking Summer 2022 Internships
+- 🔍 Seeking Summer 2022 Internships <br />
+![](https://github.com/therealfake/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/therealfake/github-stats/blob/master/generated/languages.svg)
