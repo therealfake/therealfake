@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Tianji!
+### Hi there 👋 I'm Tianji! (tee-yawn-gee)
 
 <!--
 **therealfake/therealfake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
