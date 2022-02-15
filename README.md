@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📚 Currently a 2nd year studying Computer Science at the University of Toronto
-- 📝 Sself-learning MERN stack
+- 📝 Self-learning MERN stack
 - 👷‍♂️ Open Source Software Developer for MarkUs 
 - 🔍 Seeking Summer 2022 Internships
