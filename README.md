@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👷‍♂️ Open Source Software Developer for MarkUs 
 - 🔍 Seeking Summer 2022 Internships <br />
 <!--![](https://github.com/therealfake/github-stats/blob/master/generated/overview.svg)-->
-![](https://github.com/therealfake/github-stats/blob/master/generated/languages.svg)
+<!--![](https://github.com/therealfake/github-stats/blob/master/generated/languages.svg)-->
