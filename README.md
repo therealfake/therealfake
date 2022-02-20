@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - 📝 Self-learning MERN stack
 - 👷‍♂️ Open Source Software Developer for MarkUs 
 - 🔍 Seeking Summer 2022 Internships <br />
-<!--![](https://github.com/therealfake/github-stats/blob/master/generated/overview.svg)-->
-<!--![](https://github.com/therealfake/github-stats/blob/master/generated/languages.svg)-->
+[![Tianji's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealfake&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
