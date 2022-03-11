@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### About Me:
 - 📚 Currently a 2nd year studying Computer Science at the University of Toronto
 - 📝 Self-learning MERN stack
-- 👷‍♂️ Open Source Software Developer for MarkUs 
+- 👷‍♂️ Open Source Software Developer for MarkUs (Ruby, Ruby on Rails, RSpec)
 - 🔍 Seeking Summer 2022 Internships <br /> <br />
 
 <!--[![Tianji's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealfake&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
