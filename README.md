@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 👷‍♂️ Open Source Software Developer for MarkUs 
 - 🔍 Seeking Summer 2022 Internships <br /> <br />
 
-[![Tianji's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealfake&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Tianji's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealfake&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+
