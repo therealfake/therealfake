@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 📚 Currently a 2nd year studying Computer Science at the University of Toronto
 - 📝 Self-learning MERN stack
 - 👷‍♂️ Open Source Software Developer for MarkUs (Ruby, Ruby on Rails, RSpec)
-- 🔍 Seeking Summer 2022 Internships <br /> <br />
+- Incoming Q & A Engineer @ ReelData AI
+<!-- - 🔍 Seeking Summer 2022 Internships <br /> <br /> --->
 
