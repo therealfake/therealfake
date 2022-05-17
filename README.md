@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### About Me:
 - 📚 Currently a rising 3rd year studying Computer Science at the University of Toronto
 - 📝 Self-learning MERN stack
-- 💻 Incoming Q & A Engineer Intern @ ReelData AI
+- 💻 Q & A Engineer Intern @ ReelData AI
 <!-- - 🔍 Seeking Summer 2022 Internships <br /> <br /> --->
 
