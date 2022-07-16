@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me:
 - 📚 Currently a rising 3rd year studying Computer Science at the University of Toronto
-- 📝 Self-learning MERN stack
-- 💻 Q & A Engineer Intern @ ReelData AI
-<!-- - 🔍 Seeking Summer 2022 Internships <br /> <br /> --->
+- 📝 Self-learning Full Stack Development
+<!-- - 💻 Software Engineer Intern @ ReelData AI --->
+<!-- - 🔍 Seeking Summer 2023 Internships <br /> <br /> --->
 
