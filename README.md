@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About Me:
-- 📚 Currently a rising 3rd year studying Computer Science at the University of Toronto
+- 📚 Currently a 3rd year studying Computer Science at the University of Toronto
 - 📝 Self-learning Full Stack Development
 <!-- - 💻 Software Engineer Intern @ ReelData AI --->
 <!-- - 🔍 Seeking Summer 2023 Internships <br /> <br /> --->
